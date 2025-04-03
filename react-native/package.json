@@ -18,13 +18,13 @@
     "ffmpeg-kit",
     "ios"
   ],
-  "repository": "https://github.com/arthenica/ffmpeg-kit",
+  "repository": "https://github.com/RebootMotion/ffmpeg-kit-fork",
   "author": "ARTHENICA <open-source@arthenica.com> (https://www.arthenica.com)",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arthenica/ffmpeg-kit/issues"
+    "url": "https://github.com/RebootMotion/ffmpeg-kit-fork/issues"
   },
-  "homepage": "https://github.com/arthenica/ffmpeg-kit",
+  "homepage": "https://github.com/RebootMotion/ffmpeg-kit-fork",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
